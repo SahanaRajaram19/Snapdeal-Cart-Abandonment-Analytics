@@ -2,7 +2,7 @@
 An Enterprise Data Infrastructure & Multi-Tab Business Intelligence System
 
 ## 📊 Executive Summary & Core Dashboard Asset
-![Snapdeal Executive Summary Dashboard](Screenshot%202026-06-28%20120947.png)
+![Snapdeal Executive Summary Dashboard]([Screenshot%202026-06-28%20120947.png](https://github.com/SahanaRajaram19/Snapdeal-Cart-Abandonment-Analytics/blob/main/Snapdeal_Executive_Dashboard.png))
 
 ---
 
@@ -56,8 +56,9 @@ To maintain complete transparency and meet data governance audits, this reposito
 * 📁 **`07_Business_Recommendations/`** — Strategic roadmaps mapping out the 30/60/90 day corporate operational targets.
 
 ### 🖼️ Interactive Dashboard Module Previews:
-* **Tab 1: Executive Summary Overview** (`Screenshot 2026-06-28 120947.png`) — Staggered funnel velocity visualization and baseline revenue tracking.
-* **Tab 2: Root Cause Diagnostics** (`Screenshot 2026-06-28 121008.png`) — 5-Why system matrix mapping delivery, price, and payment friction impact scores.
-* **Tab 3: Customer Behavior Analytics** (`Screenshot 2026-06-28 121026.png`) — Staggered demographic profiling across age, gender, geographic location, and product categories.
-* **Tab 4: Strategic Solutions Architecture** (`Screenshot 2026-06-28 121039.png`) — High-priority corporate action centre and solution priority assignment matrices.
-* **Tab 5: Projected Business Impact Model** (`Screenshot 2026-06-28 121105.png`) — Before vs. After comparison charts and 30/60/90 day implementation roadmap matrices.
+* **Tab 1: Executive Summary Overview** (https://github.com/SahanaRajaram19/Snapdeal-Cart-Abandonment-Analytics/blob/main/Snapdeal_Executive_Dashboard.png) — Staggered funnel velocity visualization and baseline revenue tracking.
+* **Tab 2: Root Cause Diagnostics** (https://github.com/SahanaRajaram19/Snapdeal-Cart-Abandonment-Analytics/blob/main/Snapdeal_Root_Cause_Dashboard.png) — 5-Why system matrix mapping delivery, price, and payment friction impact scores.
+* **Tab 3: Customer Behavior Analytics** (https://github.com/SahanaRajaram19/Snapdeal-Cart-Abandonment-Analytics/blob/main/Snapdeal_Customer_Behaviour_Dashboard.png
+) — Staggered demographic profiling across age, gender, geographic location, and product categories.
+* **Tab 4: Strategic Solutions Architecture** (https://github.com/SahanaRajaram19/Snapdeal-Cart-Abandonment-Analytics/blob/main/Snapdeal_Solutions_Dashboard.png) — High-priority corporate action centre and solution priority assignment matrices.
+* **Tab 5: Projected Business Impact Model** (https://github.com/SahanaRajaram19/Snapdeal-Cart-Abandonment-Analytics/blob/main/Snapdeal_Business_Impact_Dashboard.png) — Before vs. After comparison charts and 30/60/90 day implementation roadmap matrices.
